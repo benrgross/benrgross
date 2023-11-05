@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Primsa, Serverless Framework, NEXT.js, Data Visualization**
+- 💬 Ask me about **Primsa, Serverless Framework, NEXT.js, Gardening**
 
 - 📫 How to reach me **benrgross@gmail.com**
 
