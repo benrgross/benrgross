@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**benrgross/benrgross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ben</h1>
+<h3 align="center">Software Engineer who loves the soft side of coding as well as the technical stuff</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an AI app to help the user take care of their plants 🪴! Trowel is coming soon ... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **TensoFlow**
+
+- 💬 Ask me about **Primsa, Terraform, Data Visualization**
+
+- 📫 How to reach me **benrgross@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ben-gross-b5a91" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="ben-gross" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benrgross&show_icons=true&locale=en&layout=compact" alt="benrgross" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benrgross&" alt="benrgross" /></p>
