@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an AI app to help the user take care of their plants 🪴! Trowel is coming soon ... 
 
-- 🌱 I’m currently learning **TensoFlow**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 💬 Ask me about **Primsa, Terraform, Data Visualization**
 
